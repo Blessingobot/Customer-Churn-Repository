@@ -23,8 +23,6 @@ bash Linkedin https://www.linkedin.com/in/blessing-obot
 # Copy code
 git clone https://github.com/blessingobot/customer-churn-project.git
 Install the required dependencies:
-
-# Copy code
 pip install -r requirements.txt
 Run the notebooks in the notebooks directory to follow along with the data preprocessing, exploratory data analysis, and model building process.
 
