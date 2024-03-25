@@ -21,7 +21,7 @@ Usage
 bash Linkedin https://www.linkedin.com/in/blessing-obot
 
 # Copy code
-git clone https://github.com/blessingobot/customer-churn-project.git
+git clone https://github.com/blessingobot/Customer-Churn-Prediction-Project.git
 Install the required dependencies:
 pip install -r requirements.txt
 Run the notebooks in the notebooks directory to follow along with the data preprocessing, exploratory data analysis, and model building process.
@@ -36,4 +36,4 @@ Contributions to improve the project are welcome. Feel free to open an issue or 
 This project is licensed under the MIT License.
 
 # Contact
-For any questions or feedback, please contact Your Blessing Obot.
+For any questions or feedback, please contact Blessing Obot.
